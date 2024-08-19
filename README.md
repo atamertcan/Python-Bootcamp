@@ -15,4 +15,4 @@ This project was developed as the final project for the Aygaz Python Bootcamp.
 
 
 ## Visual
-![rock-paper-scissors](https://github.com/user-attachments/assets/81760da9-d705-44cb-88d6-03cb4cc6198d)
+![taş-kağıt-makas](https://github.com/user-attachments/assets/3bc9e263-c2af-4056-9126-8f209e1b75cc)
