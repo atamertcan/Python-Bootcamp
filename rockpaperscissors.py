@@ -1,8 +1,8 @@
 import random
 
 
-print("\n\n\nOyunumuzun dünyaca bilinen taş kağıt makas oyunudur.\nTaş makası yener, kağıda yenilir; kağıt taşı yener, makasa yenilir; makas kağıdı yener, taşa yenilir.")
-print("Oyun bilgisayara karşı oynanmaktadır.\nİlk başta iki round kazanan oyunu kazanır.\nİyi eğlenceler!\n\n")
+print("\n\n\nOyunumuz dünyaca bilinen taş kağıt makas oyunudur.\nTaş makası yener, kağıda yenilir; kağıt taşı yener, makasa yenilir; makas kağıdı yener, taşa yenilir.")
+print("Oyun bilgisayara karşı oynanmaktadır.\nİlk başta iki round kazanan oyunu kazanır.\nOyun sonunda hem bilgisyar hem oyuncu tekrar oynamak isterse oyun devam eder.\nİyi eğlenceler!\n\n")
 
 
 def tas_kagit_makas_ATAMERT_CAN():
