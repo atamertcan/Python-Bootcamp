@@ -1,5 +1,4 @@
-# Python-Bootcamp-Taş,Kağıt,Makas
-This project was developed as the final project for the Aygaz Python Bootcamp.
+# Rock-Paper-Scissors
 
 ## About
 - Our game is one of the most famous game in the world: **Rock, paper, scissors.**
